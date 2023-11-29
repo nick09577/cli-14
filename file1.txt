@@ -2,4 +2,8 @@
 소스트리 GUI와 CLI 실습 비교
 14_third_cli_exe1
 14_fourth_cli_exe2
+<<<<<<< HEAD
 come hot fix add
+=======
+깃허브 기능 1 추가
+>>>>>>> e13c064 (14주차 - 새로운 깃허브 기능 1 추가)
